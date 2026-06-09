@@ -47,7 +47,7 @@ export default function Footer() {
             </li>
             <li>
               <span className="footer__icon">&#128222;</span>
-              +91 98765 43210
+              +91 98240 90503
             </li>
             <li>
               <span className="footer__icon">&#9993;</span>
