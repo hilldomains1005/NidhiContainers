@@ -213,20 +213,6 @@ export default function Products() {
         </div>
       </section>
 
-      {/* Custom Order Banner */}
-      <section className="custom-banner">
-        <div className="container custom-banner__inner">
-          <span className="custom-banner__icon">🔧</span>
-          <div>
-            <h2>Need a Custom Solution?</h2>
-            <p>
-              Can't find exactly what you need? Our engineering team can design and
-              fabricate containers to your exact specifications.
-            </p>
-          </div>
-          <Link to="/contact" className="btn-primary">Talk to an Expert</Link>
-        </div>
-      </section>
     </div>
   )
 }

@@ -13,7 +13,7 @@ export default function Footer() {
             <div className="footer__brand-name">Nidhi Containers Pvt Ltd</div>
             <p className="footer__desc">
               Leading manufacturer of high-quality industrial and commercial containers,
-              serving industries across India since 2005.
+              serving industries across India.
             </p>
           </div>
         </div>
