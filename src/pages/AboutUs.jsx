@@ -93,22 +93,26 @@ export default function AboutUs() {
                 <p>Naroda, Ahmedabad, Gujarat</p>
               </div>
             </div>
-            <div className="about-visual-stats">
-              <div className="about-stat">
-                <span className="about-stat__num">20+</span>
-                <span className="about-stat__lbl">Years in Business</span>
+            <div className="about-ops-list">
+              <div className="about-ops-item">
+                <span className="about-ops-icon">👥</span>
+                <span>Core Business Operations &amp; Workforce Environment</span>
               </div>
-              <div className="about-stat">
-                <span className="about-stat__num">4</span>
-                <span className="about-stat__lbl">Directors</span>
+              <div className="about-ops-item">
+                <span className="about-ops-icon">🏭</span>
+                <span>Manufacturing Industrial Containers</span>
               </div>
-              <div className="about-stat">
-                <span className="about-stat__num">CNC</span>
-                <span className="about-stat__lbl">Milling Work</span>
+              <div className="about-ops-item">
+                <span className="about-ops-icon">🔩</span>
+                <span>Mould and Die Maintenance</span>
               </div>
-              <div className="about-stat">
-                <span className="about-stat__num">PIM</span>
-                <span className="about-stat__lbl">Injection Moulding</span>
+              <div className="about-ops-item">
+                <span className="about-ops-icon">⚙️</span>
+                <span>CNC &amp; VMC Milling Work</span>
+              </div>
+              <div className="about-ops-item">
+                <span className="about-ops-icon">✅</span>
+                <span>Quality Assurance</span>
               </div>
             </div>
           </div>

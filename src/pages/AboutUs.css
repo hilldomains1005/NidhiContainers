@@ -90,34 +90,29 @@
   opacity: 0.7;
 }
 
-.about-visual-stats {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 16px;
-}
-
-.about-stat {
-  background: var(--white);
-  border-radius: var(--radius);
-  padding: 20px 16px;
-  text-align: center;
-  box-shadow: var(--card-shadow);
+.about-ops-list {
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: 10px;
 }
 
-.about-stat__num {
-  font-size: 1.6rem;
-  font-weight: 800;
-  color: var(--accent);
+.about-ops-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 14px 18px;
+  box-shadow: var(--card-shadow);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--primary);
+  border-left: 3px solid var(--accent);
 }
 
-.about-stat__lbl {
-  font-size: 0.78rem;
-  color: var(--text-muted);
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+.about-ops-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
 }
 
 /* Mission */
