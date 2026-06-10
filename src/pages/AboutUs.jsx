@@ -2,9 +2,9 @@ import { Link } from 'react-router-dom'
 import './AboutUs.css'
 
 const team = [
-  { name: 'PRAFUL KUMUDCHANDRA PATEL', role: 'DIRECTOR', initial: 'P' },
   { name: 'VIPUL LAXMANBHAI PATEL', role: 'DIRECTOR', initial: 'V' },
-  { name: 'RAJESHREE PRAFULCHANDRA PATEL', role: 'DIRECTOR', initial: 'R' },
+  { name: 'PRAFUL KUMUDCHANDRA PATEL', role: 'DIRECTOR', initial: 'P' },
+  { name: 'RAJESHWARI PRAFULBHAI PATEL', role: 'DIRECTOR', initial: 'R' },
   { name: 'ADITYA VIPUL PATEL', role: 'DIRECTOR', initial: 'A' },
 ]
 
@@ -37,7 +37,7 @@ export default function AboutUs() {
         <div className="container">
           <h1 className="page-banner__title">About Us</h1>
           <p className="page-banner__desc">
-            31+ years of excellence in manufacturing, exporting and supplying superior quality plastic articles.
+            20+ years of excellence in manufacturing, exporting and supplying superior quality plastic articles.
           </p>
         </div>
       </div>
@@ -61,20 +61,20 @@ export default function AboutUs() {
               which facilitates us to manufacture Plastic Articles as per the defined quality standards.
             </p>
             <p className="about-overview__para">
-              Owing to our more than <strong>31+ years</strong> of industry experience in offering
+              Owing to our more than <strong>20+ years</strong> of industry experience in offering
               Plastic Articles, we are highly proficient in delivering our products within the promised
               delivery time. Our quality inspectors strictly judge each and every aspect during
               procurement and fabrication to ensure products meet the defined standards of quality.
             </p>
             <p className="about-overview__para">
-              Under the successful guidance of our mentor, <strong>Mr. Praful Patel</strong>, we have
+              Under the successful guidance of our mentor, <strong>Mr. Vipul Patel</strong>, we have
               been able to carve a niche for ourselves in the market of Plastic Articles. His affluent
               industry understanding and dedication enables us to manufacture, export and supply our
               products across the Indian Subcontinent in a cost-effective manner.
             </p>
             <div className="about-overview__highlights">
               <div className="highlight-item">
-                <strong>31+</strong> Years Experience
+                <strong>20+</strong> Years Experience
               </div>
               <div className="highlight-item">
                 <strong>ISO</strong> Certified
@@ -95,7 +95,7 @@ export default function AboutUs() {
             </div>
             <div className="about-visual-stats">
               <div className="about-stat">
-                <span className="about-stat__num">31+</span>
+                <span className="about-stat__num">20+</span>
                 <span className="about-stat__lbl">Years in Business</span>
               </div>
               <div className="about-stat">

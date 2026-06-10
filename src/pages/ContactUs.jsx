@@ -9,7 +9,7 @@ const contactInfo = [
   {
     icon: '📞',
     title: 'Call Us',
-    lines: ['+91 98240 90503'],
+    lines: ['+91 9824090503', '+91 7573012501'],
   },
   {
     icon: '📧',

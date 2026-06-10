@@ -65,11 +65,10 @@ export default function Home() {
         <div className="hero__content container">
           <h1 className="hero__title">
             Nidhi Containers Pvt Ltd<br />
-            <span className="hero__title-accent">Plastic Machinery Parts Manufacturer</span>
+            <span className="hero__title-accent">Plastic Parts Manufacturer</span>
           </h1>
           <p className="hero__desc">
-            A famous Plastic Parts Manufacturer, Supplier, and Exporter in Ahmedabad —
-            manufacturing world class plastic parts and its Die and Mould for various industrial segments.
+            Production of High-Quality Plastic Products, Precision Moulds, Engineering Plastic Components, and Industrial Packagings.
           </p>
           <div className="hero__actions">
             <Link to="/products" className="btn-primary">Explore Products</Link>
