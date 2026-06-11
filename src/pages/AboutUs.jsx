@@ -95,10 +95,6 @@ export default function AboutUs() {
             </div>
             <div className="about-ops-list">
               <div className="about-ops-item">
-                <span className="about-ops-icon">👥</span>
-                <span>Core Business Operations &amp; Workforce Environment</span>
-              </div>
-              <div className="about-ops-item">
                 <span className="about-ops-icon">🏭</span>
                 <span>Manufacturing Industrial Containers</span>
               </div>
