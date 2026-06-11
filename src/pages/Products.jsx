@@ -8,7 +8,7 @@ const products = [
     category: 'Bottle',
     image: null,
     icon: '🧴',
-    capacity: '50ml – 500ml',
+    capacity: '50ml – 5l',
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const products = [
     category: 'Jar',
     image: null,
     icon: '🫙',
-    capacity: '50ml – 500ml',
+    capacity: '50ml – 5l',
   },
   {
     id: 3,
@@ -24,49 +24,49 @@ const products = [
     category: 'Container',
     image: null,
     icon: '📦',
-    capacity: '50ml – 500ml',
+    capacity: '50ml – 5l',
   },
   {
     id: 4,
     name: 'New Slayer Bottle',
     category: 'Bottle',
     image: '/Bottles/NewSlayerBottle.jpg',
-    capacity: '50ml – 500ml',
+    capacity: '50ml – 5l',
   },
   {
     id: 5,
     name: 'Refri Bottle',
     category: 'Bottle',
     image: '/Bottles/New_Refri_Bottle.jpg',
-    capacity: '50ml – 500ml',
+    capacity: '50ml – 5l',
   },
   {
     id: 6,
     name: 'Paracot Bottle',
     category: 'Bottle',
     image: '/Bottles/ParacotBottle.jpg',
-    capacity: '50ml – 500ml',
+    capacity: '50ml – 5l',
   },
   {
     id: 7,
     name: 'Refri Round Container',
     category: 'Container',
     image: '/Containers/Refri_Round_Container.jpg',
-    capacity: '50ml – 500ml',
+    capacity: '50ml – 5l',
   },
   {
     id: 8,
     name: 'Refri Square Container',
     category: 'Container',
     image: '/Containers/Refri_Square_Container.jpg',
-    capacity: '50ml – 500ml',
+    capacity: '50ml – 5l',
   },
   {
     id: 9,
     name: 'Slayer HDPE Container',
     category: 'Container',
     image: '/Containers/Slayer_HDPE_Container.jpg',
-    capacity: '50ml – 500ml',
+    capacity: '50ml – 5l',
   },
 ]
 
@@ -78,7 +78,7 @@ export default function Products() {
         <div className="container">
           <h1 className="page-banner__title">Our Products</h1>
           <p className="page-banner__desc">
-            Manufacturing high-quality plastic bottles and containers ranging from 50ml to 500ml.
+            Manufacturing high-quality plastic bottles and containers ranging from 50ml to 5l.
           </p>
         </div>
       </div>
@@ -88,7 +88,7 @@ export default function Products() {
           <div className="divider"></div>
           <h2 className="section-title">Plastic Articles</h2>
           <p className="section-subtitle">
-            Plastic Bottles, Containers &amp; Jars — 50ml to 500ml — manufactured to the highest quality standards
+            Plastic Bottles, Containers &amp; Jars — 50ml to 5l — manufactured to the highest quality standards
             for pharma, food, cosmetic, and industrial use.
           </p>
 
